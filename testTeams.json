@@ -1,0 +1,131 @@
+{
+  "createTeam": {
+    "nome": "Flamengo",
+    "sigla": "FLA",
+    "ataque": 85,
+    "defesa": 80
+  },
+
+  "sampleTeams": [
+    {
+      "nome": "Atlético-MG",
+      "sigla": "CAM",
+      "ataque": 82,
+      "defesa": 78
+    },
+    {
+      "nome": "Bahia",
+      "sigla": "BAH",
+      "ataque": 75,
+      "defesa": 72
+    },
+    {
+      "nome": "Botafogo",
+      "sigla": "BOT",
+      "ataque": 78,
+      "defesa": 76
+    },
+    {
+      "nome": "Corinthians",
+      "sigla": "COR",
+      "ataque": 80,
+      "defesa": 77
+    },
+    {
+      "nome": "Cruzeiro",
+      "sigla": "CRU",
+      "ataque": 79,
+      "defesa": 75
+    },
+    {
+      "nome": "Criciúma",
+      "sigla": "CRI",
+      "ataque": 70,
+      "defesa": 68
+    },
+    {
+      "nome": "Flamengo",
+      "sigla": "FLA",
+      "ataque": 85,
+      "defesa": 80
+    },
+    {
+      "nome": "Fluminense",
+      "sigla": "FLU",
+      "ataque": 77,
+      "defesa": 74
+    },
+    {
+      "nome": "Fortaleza",
+      "sigla": "FOR",
+      "ataque": 76,
+      "defesa": 73
+    },
+    {
+      "nome": "Grêmio",
+      "sigla": "GRE",
+      "ataque": 81,
+      "defesa": 79
+    },
+    {
+      "nome": "Internacional",
+      "sigla": "INT",
+      "ataque": 83,
+      "defesa": 81
+    },
+    {
+      "nome": "Juventude",
+      "sigla": "JUV",
+      "ataque": 72,
+      "defesa": 70
+    },
+    {
+      "nome": "Palmeiras",
+      "sigla": "PAL",
+      "ataque": 86,
+      "defesa": 82
+    },
+    {
+      "nome": "Red Bull Bragantino",
+      "sigla": "RBB",
+      "ataque": 74,
+      "defesa": 71
+    },
+    {
+      "nome": "Santos",
+      "sigla": "SAN",
+      "ataque": 73,
+      "defesa": 69
+    },
+    {
+      "nome": "São Paulo",
+      "sigla": "SPF",
+      "ataque": 84,
+      "defesa": 80
+    },
+    {
+      "nome": "Vasco da Gama",
+      "sigla": "VAS",
+      "ataque": 71,
+      "defesa": 67
+    },
+    {
+      "nome": "Vitória",
+      "sigla": "VIT",
+      "ataque": 69,
+      "defesa": 66
+    },
+    {
+      "nome": "Atlético-GO",
+      "sigla": "ACG",
+      "ataque": 68,
+      "defesa": 65
+    },
+    {
+      "nome": "Cuiabá",
+      "sigla": "CUI",
+      "ataque": 67,
+      "defesa": 64
+    }
+  ]
+}

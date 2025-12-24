@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+
+  <body>
+    <h1>Teste da API de Times</h1>
+    <button onclick="testarAPI()">Testar GET /teams</button>
+    <br /><br />
+    <label for="time1">
+       <strong>Mandante</strong>
+         <select name="time1" id="time1">
+            <option value="" selected hidden>Selecione</option>
+
+        
+      </select>
+    </label>
+
+
+    <label for="time2">
+        <strong>Visitante</strong>
+        <select name="time2" id="time2">
+
+            <option value="" selected hidden>Selecione</option>
+        </select>
+
+    </label>
+    <button  class="btn-simulate">Simular Partida</button>
+    <div id="result"></div>
+
+</body>
+<script src="script.js"></script>
+</html>
